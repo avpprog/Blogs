@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # Hi, I'm [Aditya Patil] 👋
 
 I'm a cybersecurity enthusiast focused on [penetration testing / network security / SOC ].
