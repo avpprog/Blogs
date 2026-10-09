@@ -18,6 +18,5 @@ I'm a cybersecurity enthusiast focused on [penetration testing / network securit
 ## Connect
 
 - [GitHub](https://github.com/avpprog)
-- [LinkedIn](https://www.linkedin.com/in/aditya-patil-2b6896258/)
-<!-- [Twitter/X](https://twitter.com/yourhandle)-->
+- [LinkedIn](https://www.linkedin.com/in/aditya-patil-2b6896258/)<!-- [Twitter/X](https://twitter.com/yourhandle)-->
 - [TryHackMe Profile](https://tryhackme.com/p/avp7)
